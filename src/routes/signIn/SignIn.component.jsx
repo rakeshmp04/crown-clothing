@@ -8,7 +8,6 @@ const SignIn = () =>{
     }
     return(
         <div>
-            <h1>This is sign in page</h1>
             <button onClick={logGoogleUser}>sign in with google</button>
             <SignUpForm />
         </div>
